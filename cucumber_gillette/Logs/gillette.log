@@ -1,0 +1,27 @@
+10-03-2022 09:34:37 INFO  BaseClass:19 - Gillette as opened
+10-03-2022 09:34:37 INFO  HomePage:19 - Hovering on 'Products' and clicking on 'MOCH3'
+10-03-2022 09:34:38 INFO  HomePage:19 - Clicking page as opened
+10-03-2022 09:34:38 INFO  HomePage:19 - Check if product is found Gillette MACH3 Turbo
+10-03-2022 09:34:38 INFO  HomePage:19 - Gillette MACH3 Turbo is in the 'our products' list
+10-03-2022 09:34:43 INFO  BaseClass:19 - Gillette as opened
+10-03-2022 09:34:43 INFO  HomePage:19 - Searching for razor
+10-03-2022 09:34:46 INFO  Testcase2:19 - Checking if the name of the search heading contains 'razor'
+10-03-2022 09:34:46 INFO  Testcase2:19 - The name of the search heading contains 'razor'
+10-03-2022 12:24:18 INFO  BaseClass:19 - Gillette as opened
+10-03-2022 12:24:18 INFO  HomePage:19 - Hovering on 'Products' and clicking on 'MOCH3'
+10-03-2022 12:24:19 INFO  HomePage:19 - Clicking page as opened
+10-03-2022 12:24:19 INFO  HomePage:19 - Check if product is found Gillette MACH3 Turbo
+10-03-2022 12:24:20 INFO  HomePage:19 - Gillette MACH3 Turbo is in the 'our products' list
+10-03-2022 12:24:24 INFO  BaseClass:19 - Gillette as opened
+10-03-2022 12:24:24 INFO  HomePage:19 - Searching for razor
+10-03-2022 12:24:27 INFO  Testcase2:19 - Checking if the name of the search heading contains 'razor'
+10-03-2022 12:24:27 INFO  Testcase2:19 - The name of the search heading contains 'razor'
+10-03-2022 16:55:21 INFO  BaseClass:19 - Gillette as opened
+10-03-2022 16:55:21 INFO  HomePage:19 - Hovering on 'Products' and clicking on 'MOCH3'
+10-03-2022 16:55:23 INFO  HomePage:19 - Clicking page as opened
+10-03-2022 16:55:23 INFO  HomePage:19 - Check if product is found Gillette MACH3 Turbo
+10-03-2022 16:55:23 INFO  HomePage:19 - Gillette MACH3 Turbo is in the 'our products' list
+10-03-2022 16:55:29 INFO  BaseClass:19 - Gillette as opened
+10-03-2022 16:55:29 INFO  HomePage:19 - Searching for razor
+10-03-2022 16:55:33 INFO  Testcase2:19 - Checking if the name of the search heading contains 'razor'
+10-03-2022 16:55:33 INFO  Testcase2:19 - The name of the search heading contains 'razor'

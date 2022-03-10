@@ -1,0 +1,16 @@
+08-03-2022 15:31:03 INFO  BaseClass:19 - Gillette as opened
+08-03-2022 15:31:03 INFO  HomePage:19 - Hovering on 'Products' and clicking on 'MOCH3'
+08-03-2022 15:31:05 INFO  HomePage:19 - Clicking page as opened
+08-03-2022 15:31:05 INFO  HomePage:19 - Check if product is found Gillette MACH3 Turbo
+08-03-2022 15:31:05 INFO  HomePage:19 - Gillette MACH3 Turbo is in the 'our products' list
+08-03-2022 15:31:10 INFO  BaseClass:19 - Gillette as opened
+08-03-2022 15:31:10 INFO  HomePage:19 - Searching for razor
+08-03-2022 15:31:13 INFO  Testcase2:19 - Checking if the name of the search heading contains 'razor'
+08-03-2022 15:31:13 INFO  Testcase2:19 - The name of the search heading contains 'razor'
+08-03-2022 15:36:31 INFO  BaseClass:19 - Gillette as opened
+08-03-2022 15:36:31 INFO  HomePage:19 - Hovering on 'Products' and clicking on 'MOCH3'
+08-03-2022 15:36:32 INFO  HomePage:19 - Clicking page as opened
+08-03-2022 15:36:36 INFO  BaseClass:19 - Gillette as opened
+08-03-2022 15:36:36 INFO  HomePage:19 - Searching for razor
+08-03-2022 15:36:39 INFO  Testcase2:19 - Checking if the name of the search heading contains 'razor'
+08-03-2022 15:36:39 INFO  Testcase2:19 - The name of the search heading contains 'razor'
